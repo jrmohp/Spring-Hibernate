@@ -1,0 +1,11 @@
+package com.jrm.springdemo;
+
+public class BaseballCoach implements Coach {
+
+	
+	
+	public String getDailyWorkout()
+	{
+		return "30 minutes in batting";
+	}
+}
